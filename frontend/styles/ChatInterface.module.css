@@ -1,0 +1,64 @@
+/* styles/ChatInterface.module.css */
+.chatContainer {
+    display: flex;
+    flex-direction: column;
+    height: 100%; /* Occupy available height in chatSection */
+}
+
+.messagesDisplay {
+    flex-grow: 1; /* Takes up all available space */
+    padding: 10px;
+    overflow-y: auto; /* Enable scrolling for messages */
+    background-color: #f7f7f7;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+.message {
+    margin-bottom: 8px;
+    padding: 8px 12px;
+    border-radius: 15px;
+    max-width: 80%;
+    word-wrap: break-word;
+}
+
+.userMessage {
+    background-color: #007bff; /* Blue for user */
+    color: white;
+    align-self: flex-end; /* Align to right */
+    margin-left: auto;
+}
+
+.botMessage {
+    background-color: #e2e3e5; /* Light grey for bot */
+    color: #333;
+    align-self: flex-start; /* Align to left */
+    margin-right: auto;
+}
+
+.messageInputForm {
+    display: flex;
+    padding: 10px 0;
+    border-top: 1px solid #eee;
+}
+
+.messageInput {
+    flex-grow: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    margin-right: 10px;
+}
+
+.sendButton {
+    background-color: #28a745; /* Green */
+    color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 15px;
+    cursor: pointer;
+    font-weight: bold;
+}
+.sendButton:hover {
+    background-color: #218838;
+}
