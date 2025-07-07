@@ -1,5 +1,0 @@
-steps:
-- name: 'gcr.io/cloud-builders/docker'
-  args: [ 'build', '-t', 'gcr.io/menuapp-463518/mymenubot-backend:latest', '.' ] # Corrected project ID here
-images:
-- 'gcr.io/menuapp-463518/mymenubot-backend:latest' # Corrected project ID here
