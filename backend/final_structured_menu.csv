@@ -1,0 +1,159 @@
+dish_id,dish_name,price,spice_level,is_vegetarian,cuisine_origin,description,dish_type
+D001,Blueberry Pancakes with Berry Compote,340,mild,No,Continental,Fluffy pancakes served with mixed berry compote (3 pieces),Dessert
+D002,Social Egg Bhurjee,275,medium,No,Indian,Highway bhurjee with egg cooked 3 ways and Akuri spices,Main Course
+D003,Disco Fried Egg,285,medium,No,Fusion,"3 fried eggs with powdered spices, cheese sauce & green chillies",Main Course
+D004,Irani Omelette,260,hot,Yes,Indian,"Wild west style omelette with heavy masala of onion, tomato, ginger, garlic and chilli powder",Main Course
+D005,Don't be Salli Par Edu,315,medium,Yes,Indian,Favourite parsi meal of straw potatoes topped with 2 sunny side up eggs served with pao & lagan nu Achaar,Main Course
+D006,Pancake Saddlebags,430,mild,No,Continental,"Pancake saddled with pork bacon, chicken sausages, fried eggs & maple syrup (2 pieces)",Dessert
+D007,Andaas Apna Apna - Eggs & Toast,315,medium,No,Continental,"Scrambled/half fry/full fry/railway station omelette/mushroom omelette/cheese omelette served with grilled tomato, baked beans & choice of white slice bread toast or pav",Main Course
+D008,Poori Aloo Nashta,315,medium,Yes,Indian,"Pooris served with spicy & tangy potato curry along with achaar, kachumber & moong dal halwa",Main Course
+D009,Kiran's Big Apple Breakfast,470,mild,Yes,Continental,"2 eggs any style, blueberry pancake, pork bacon, home fries, toast with butter & preserves, oreo cookies & choice of tea or coffee",Beverage
+D010,Sid's Very Posh Breakfast,470,medium,Yes,Continental,"2 eggs any style, baked beans, grilled tomato, hash browns, pork bacon & sausages served with toast butter & preserves & choice of English breakfast tea or Coffee",Beverage
+D011,Hardy's Bhai Istyle Breakfast,470,medium,Yes,Fusion,"Keema ghotala or bun omelette, bun maska, masala chai with khari & biscuits",Main Course
+D012,Riyaaz's Breakfast of Champions,550,hot,Yes,Fusion,"Haleem, poori, halwa & boiled eggs",Main Course
+D013,Dhingra's Punjabi Breakfast,450,medium,Yes,Fusion,"Paratha (aloo/gobi/paneer) served with chole, punjabi samosa, aam ka achaar, pyaaz, dahi, karrare aloo, lassi & chai",Main Course
+D014,Sweet Corn Soup,230,mild,Yes,Fusion,Classic sweet corn soup with option to add chicken or prawns,Main Course
+D015,Bhoot Jolokia Nanchow Soup,225,very hot,Yes,Fusion,Spicy noodle soup with option to add chicken or prawns,Main Course
+D016,Watermelon Vs. Feta,395,mild,Yes,Fusion,"Watermelon, feta cheese, arugula and balsamic reduction",Main Course
+D017,Bombay Bhel Puri Salad,295,medium,Yes,Fusion,"Rice puff granola, pomegranate, orange segments, nuts and tamarind chutney dressing",Main Course
+D018,Social Caesar Salad,360,mild,Yes,Continental,Classic caesar salad with option to add chicken or bacon,Main Course
+D019,Tandoori Chicken Ranch Salad,470,medium,No,Fusion,Tandoori chicken tossed in ranch dressing with grilled corn and smoked peppers,Main Course
+D020,Greek Salad,395,mild,Yes,Fusion,"Traditional greek salad with olives, tomatoes, cucumber, onions and feta",Main Course
+D021,Crispy Aloo Chaat,260,medium,Yes,Indian,Crispy potato chaat with chutneys and spices,Main Course
+D022,Purani Dilli Chaat Walk,450,medium,Yes,Fusion,"Epic chaat platter with Bhalla paapdi chaat, hash brown tikki chaat, Raj Kachori & golgappas",Main Course
+D023,Chaat ke Gubaarey,325,medium,Yes,Fusion,Canapés of Chaat with Yoghurt balloon,Main Course
+D024,D.I.Y. GOLGAPPA Thali,275,medium,Yes,Indian,DIY golgappa experience with various fillings and chutneys,Main Course
+D025,Achmed's Mezze Platter,525,medium,Yes,Fusion,"Falafel, hummus, baba ganoush, tabbouleh cheese accompanies and pita bread",Main Course
+D026,Pakoda Party Platter,295,medium,Yes,Indian,Assorted vegetable fritters with Social's special dipping sauce,Main Course
+D027,Powerplay Platter,525,medium,Yes,Fusion,"Platter of all favourites at Social - Jalapeno Nadis, Awesomosas, Falafel with house dips and onion rings",Main Course
+D028,Shawarma Yo Mama,560,medium,Yes,Fusion,"Roasted chicken, hummus, salad, fries, garlic mayo and pita bread",Appetizer
+D029,Killer Kebab Plate,935,hot,Yes,Indian,"Old School Chicken Tikka, Jose' Jalapeno Tikka, Mutton Seekh and Egg Tikka served with green chutney",Main Course
+D030,Wings Platter,945,hot,Yes,Fusion,"Wings sampler with Tennessee, Tandoori, BBQ and Death Chicken Wings (12 pieces)",Main Course
+D031,Abra Kebab-Ra Platter,675,medium,Yes,Indian,"Paneer tikka, Multani mushroom, Soya chaap and Tandoori momos",Main Course
+D032,BBQ Board,895,medium,Yes,Continental,"Hot wings, potato skins, Pork ribs and sausages in hickory smoked BBQ sauce and crusted corn",Main Course
+D033,Achaari Paneer Tikka,495,hot,Yes,Indian,Marinated paneer in pickle spices (6 pieces),Main Course
+D034,Hara Bhara Kebab,415,medium,Yes,Indian,Green vegetable kebabs served with green chutney and onions,Main Course
+D035,Tandoori Soya Chaap,470,medium,Yes,Indian,Soya chaap marinated in tandoori spices,Main Course
+D036,Multani Mushrooms,475,medium,Yes,Indian,Button mushrooms marinated in heavy yoghurt cream and cashew marination stuffed with paneer and cheese,Main Course
+D037,Old School Chicken Tikka,595,medium,No,Indian,Classic chicken tikka preparation (6 pieces),Main Course
+D038,José Jalapeno Chicken Tikka,595,hot,No,Fusion,Spicy jalapeno marinated chicken tikka,Main Course
+D039,Aslam Butter Tikka,585,medium,Yes,Fusion,Butter marinated chicken tikka,Main Course
+D040,Chutney Chicken Tikka,595,medium,No,Indian,Green chutney marinated chicken tikkas served with green chutney and onions,Main Course
+D041,Mutton Seekh,650,medium,No,Indian,Traditional mutton seekh kebabs,Main Course
+D042,Crispy Corn Chakhna,385,medium,Yes,Indian,Batter fried corn niblets with spicy seasoning,Main Course
+D043,Charred Vegetable Spring Rolls,385,medium,Yes,Fusion,Fresh spring rolls with charred vegetables,Main Course
+D044,Mix Veg Salt 'n' Pepper,375,medium,Yes,Fusion,Mixed vegetables in salt and pepper seasoning,Main Course
+D045,Chilli Paneer,415,hot,Yes,Fusion,Paneer cubes in spicy chilli sauce - classic or sriracha style,Main Course
+D046,Chinese Bhel,260,medium,Yes,Fusion,Fusion bhel with Chinese flavors,Main Course
+D047,Jalapeno Cheese Nads,450,hot,Yes,Fusion,"Jalapenos with cheese filling, crumbed and deep fried with sriracha chunda",Main Course
+D048,Fully Loaded Nachos,475,medium,Yes,Mexican,Loaded nachos with BBQ chicken option,Main Course
+D049,Poutine Classic,420,mild,Yes,Fusion,"Classic poutine with fries, gravy and cheese curds",Appetizer
+D050,Crispy Sesame Honey Chilli Fries,385,medium,Yes,Fusion,Sweet & spicy crispy potato fries topped with sesame seeds,Appetizer
+D051,Naga Chilli Cheese Toast,385,very hot,Yes,Fusion,Spicy cheese toast with naga chilli (8 pieces),Main Course
+D052,Awesomosas,415,medium,Yes,Fusion,"Sheet samosas stuffed with pizza sauce and mushrooms, served with sriracha chunda and green apple chutney",Main Course
+D053,Fish Tacos,495,medium,Yes,Mexican,Homemade softshell tacos stuffed with batter fried fish fingers spread of baja sauce (6 pieces),Main Course
+D054,South hall Fish n Chips,580,medium,Yes,Fusion,"Basa marinated in vindaloo paste fried in beer batter, served with masala fries & lehsun chutney mayo",Appetizer
+D055,Shrimp Popcorn with Japanese Sriracha Mayo,525,medium,Yes,Fusion,Crispy shrimp popcorn with spicy mayo,Main Course
+D056,Butter Garlic Pepper Chicken,430,medium,No,Continental,Chicken in butter garlic pepper sauce,Main Course
+D057,Butter Garlic Pepper Prawns,550,medium,Yes,Continental,Prawns in butter garlic pepper sauce,Main Course
+D058,Hot Tennessee Chicken Wings,495,hot,No,Continental,Spicy chicken wings Tennessee style (6 pieces),Main Course
+D059,Death Wings,495,very hot,Yes,Fusion,Extremely spicy chicken wings (6 pieces),Main Course
+D060,Silly Chilly Wings,495,medium,Yes,Fusion,Chicken wings in honey chilli sauce (6 pieces),Main Course
+D061,Chicken Sausage Fries,320,medium,No,Continental,Crispy chicken sausage strips with BBQ sauce,Appetizer
+D062,Chicken Salt n Pepper,415,medium,No,Fusion,Chicken pieces in salt and pepper seasoning,Main Course
+D063,Chooza 69,495,hot,Yes,Fusion,Hyderabadi style chicken lollipop (6 pieces),Main Course
+D064,Chilli Chicken,475,hot,No,Fusion,Classic chilli chicken preparation,Main Course
+D065,Tikka Tacos,450,medium,Yes,Fusion,Chicken tikka in soft shell tortillas with tandoori salad mint chutney and aioli (6 pieces),Main Course
+D066,Baida Roti Chicken,415,medium,No,Fusion,"Mumbai street food - spiced omelette stuffed with minced chicken, served with green apple chutney",Main Course
+D067,Baida Roti Mutton,430,medium,No,Fusion,"Mumbai street food - spiced omelette stuffed with minced mutton, served with green apple chutney",Main Course
+D068,Butter Garlic Chilli Momos,375,medium,Yes,Fusion,"Momos tossed in butter, garlic and chilli served with sriracha basil sauce (6 pieces) - Veg",Main Course
+D069,Butter Garlic Chilli Momos Chicken,395,medium,No,Fusion,"Momos tossed in butter, garlic and chilli served with sriracha basil sauce (6 pieces) - Non-Veg",Main Course
+D070,Momos Chaat,375,medium,Yes,Fusion,Chaat made of momos and chinese bhel with house tangy sauce (6 pieces) - Veg,Main Course
+D071,Momos from Hell,375,very hot,Yes,Fusion,Spiciest momos ever (6 pieces) - Veg,Main Course
+D072,Momos from Hell Chicken,415,very hot,No,Fusion,Spiciest momos ever (6 pieces) - Non-Veg,Main Course
+D073,Tandoori Momos,375,medium,Yes,Fusion,Momos coated with masala and finished in tandoor (6 pieces) - Veg,Main Course
+D074,Tandoori Momos Chicken,415,medium,No,Fusion,Momos coated with masala and finished in tandoor (6 pieces) - Non-Veg,Main Course
+D075,Khao Suey Momos,375,medium,Yes,Fusion,Momos with Burmese spiced sauce (6 pieces) - Veg,Main Course
+D076,Khao Suey Momos Chicken,430,medium,No,Fusion,Momos with Burmese spiced sauce (6 pieces) - Non-Veg,Main Course
+D077,Classic Momos,360,mild,Yes,Fusion,Traditional momos with special dipping sauce (6 pieces) - Veg,Main Course
+D078,Classic Momos Chicken,395,mild,No,Fusion,Traditional momos with special dipping sauce (6 pieces) - Non-Veg,Main Course
+D079,Momopalooza,495,medium,Yes,Fusion,"Sampler of momos - Tandoori, Butter garlic, Momos from Hell and Classic (10 pieces) - Veg",Main Course
+D080,Momopalooza Chicken,580,medium,No,Fusion,"Sampler of momos - Tandoori, Butter garlic, Momos from Hell and Classic (10 pieces) - Non-Veg",Main Course
+D081,Desi Thali,525,medium,Yes,Indian,"Choice of Paneer/Chicken tikka and Toofani Paneer/Butter Chicken with Dal makhani, Rice, salad, papad and Gulab Jamun - Veg",Main Course
+D082,Chinese Thali,525,medium,Yes,Fusion,"Choice of Veg/Chicken momos, Veg spring rolls, Salt n Pepper Veg Chicken, chinese bhel with Paneer/Chicken in Black pepper sauce with fried rice or noodles - Veg",Main Course
+D083,Chinese Thali Chicken,550,medium,No,Fusion,"Choice of Chicken momos, Veg spring rolls, Salt n Pepper Veg Chicken, chinese bhel with Paneer/Chicken in Black pepper sauce with fried rice or noodles - Non-Veg",Main Course
+D084,Thai Thali,450,medium,Yes,Fusion,"Veg or Chicken Green curry, Rice, raw papaya salad, pickle, poppadums/prawn crackers with mixed/prawn pickle - Veg",Main Course
+D085,Thai Thali Chicken,580,medium,No,Fusion,"Chicken Green curry, Rice, raw papaya salad, pickle, poppadums/prawn crackers with mixed/prawn pickle - Non-Veg",Main Course
+D086,Meat Lover Thali,750,hot,Yes,Fusion,"Served with Fantastic Mutton, Anda Shammi Kebab, Mutton Biryani, Social White Chicken and Gulab Jamun",Main Course
+D087,Vada Pao Bao,295,medium,Yes,Fusion,Mumbai vada pao in a bao with lehsun chutney mayo & chilli pickle (2 pieces),Main Course
+D088,Pulled Tandoori Chicken Makhani Bao,375,medium,No,Fusion,Hand pulled tandoori chicken in makhani gravy with green apple chutney and salad (2 pieces),Main Course
+D089,Anda Shammi Pao,340,medium,Yes,Fusion,Traditional shammi kebab with mozzarella and red onions in a laddi pao,Main Course
+D090,Keema Pao,430,medium,Yes,Fusion,Masala spiked minced mutton served with buttered pao,Main Course
+D091,Bombay Bachelors,360,medium,Yes,Fusion,"Typical Mumbai sandwich with sliced veggies, masala aloo bhaji, topped with mint chutney",Main Course
+D092,The Mile High Club Veg,430,medium,Yes,Continental,"3 toasted slices of bread with layers of vegetables, cheese and vegetable patty",Main Course
+D093,The Mile High Club Non-Veg,460,medium,Yes,Continental,"3 toasted slices of bread with layers of vegetables, cheese, fried egg, chicken mayo and chicken ham",Main Course
+D094,OG Aloo Tikki Burger,325,medium,Yes,Indian,Classic potato tikki burger with vegetables and sauces,Main Course
+D095,Paneer Tikka Burger,415,medium,Yes,Indian,Paneer tikka patty burger with vegetables and chutneys,Main Course
+D096,Roasted Roots Veggies and Quinoa Burger,415,medium,No,Continental,Healthy burger with roasted vegetables and quinoa patty,Main Course
+D097,Truffle Shroom Burger,395,medium,Yes,Continental,Mushroom burger with truffle flavor,Main Course
+D098,Guacamole and Black Bean Burger,430,medium,Yes,Mexican,Mexican style burger with guacamole and black beans,Main Course
+D099,Crispy Fish Fillet Burger,495,medium,Yes,Continental,Crispy fish fillet burger with mayo and vegetables,Main Course
+D100,Crispy Chicken and Cheese Melt Burger,495,medium,No,Continental,Crispy chicken burger with melted cheese,Main Course
+D101,Classic Chicken Burger,420,medium,No,Continental,Traditional chicken burger with vegetables and sauces,Main Course
+D102,Chicken Parm Burger,495,medium,No,Italian,Chicken parmesan style burger,Main Course
+D103,Chicken Tikka Burger,480,medium,No,Indian,Chicken tikka patty burger with Indian flavors,Main Course
+D104,Rabat Lamb Burger,550,medium,Yes,Fusion,Lamb patty burger with Moroccan spices,Main Course
+D105,Juicy Lucy Mutton Burger,550,medium,No,Continental,Mutton burger with cheese stuffing,Main Course
+D106,Achaari Paneer Tikka Roll,395,hot,Yes,Indian,Paneer tikka roll with pickle spices,Main Course
+D107,Multani Mushroom Roll,395,medium,Yes,Indian,Mushroom roll with Multani spices,Main Course
+D108,Masala Egg Double Cheese Roll,395,medium,No,Indian,Egg roll with double cheese and masala,Main Course
+D109,Malai Tikka Roll,395,medium,Yes,Indian,Malai tikka roll with creamy marinade,Main Course
+D110,Anda Seekh Roll,425,medium,Yes,Indian,Egg and seekh kebab roll,Main Course
+D111,Old School Chicken Tikka Roll,395,medium,No,Indian,Classic chicken tikka roll,Main Course
+D112,Jose Jalapeno Chicken Tikka Roll,365,hot,No,Fusion,Spicy jalapeno chicken tikka roll,Main Course
+D113,Tandoori Ratatouille Pizza,525,medium,Yes,Fusion,Pizza topped with tandoori grilled ratatouille with mozzarella,Main Course
+D114,Makhani Margherita Pizza,525,medium,Yes,Fusion,Margherita pizza with makhani sauce base,Main Course
+D115,4 Cheese Pizza,580,mild,Yes,Italian,"Pizza with four different cheeses - mozzarella, cheddar, parmesan and goat cheese topped with garlic",Main Course
+D116,Shitake & Button Mushroom Pizza,580,medium,Yes,Italian,Pizza topped with garlic roasted mushrooms,Main Course
+D117,Paneer Tikka & Bell Pepper Pizza,595,medium,Yes,Fusion,Pizza with paneer tikka and bell peppers,Main Course
+D118,Chicken Tikka and Cheddar Pizza,595,medium,No,Fusion,Pizza with chicken tikka and cheddar cheese,Main Course
+D119,Sausage Masala Pizza,595,medium,Yes,Fusion,Pizza topped with chicken franks cooked in an Indian masala,Main Course
+D120,Charred Malai Broccoli & Charcoal Corn Pizza,525,medium,Yes,Fusion,Pizza with charred vegetables and corn,Main Course
+D121,Paneer China Box,450,medium,Yes,Fusion,Chinese style paneer with choice of rice or noodles,Main Course
+D122,Chicken China Box,480,medium,No,Fusion,Chinese style chicken with choice of rice or noodles,Main Course
+D123,Prawn China Box,525,medium,Yes,Fusion,Chinese style prawns with choice of rice or noodles,Main Course
+D124,Kung Pao Sauce,130,hot,Yes,Fusion,Spicy Sichuan sauce,Main Course
+D125,Schezwan Sauce,130,hot,Yes,Fusion,Spicy Schezwan sauce,Main Course
+D126,Hot Garlic Sauce,150,medium,Yes,Fusion,Spicy garlic sauce,Main Course
+D127,Manchurian Sauce,150,medium,Yes,Fusion,Sweet and sour Manchurian sauce,Main Course
+D128,Social SexD Sauce,180,medium,Yes,Fusion,House special sauce,Main Course
+D129,Fried Rice,425,mild,Yes,Fusion,Wok fried rice,Main Course
+D130,Hakka Noodle,485,mild,Yes,Fusion,Stir-fried hakka noodles,Main Course
+D131,Steamed Rice,300,mild,Yes,Thai,Plain steamed rice,Beverage
+D132,Egg Fried Rice,385,mild,No,Fusion,Fried rice with scrambled eggs,Main Course
+D133,Social Spicy Spaghetti AOP,415,hot,Yes,Italian,Spicy spaghetti aglio olio peperoncino with vegetables or meat add-ons,Main Course
+D134,Penne in Curried Vegetables,495,medium,Yes,Fusion,Penne pasta with Indian spiced vegetables,Main Course
+D135,Classic Mac N Cheese,470,mild,Yes,Continental,Traditional macaroni and cheese,Main Course
+D136,Social Keema Spaghetti,540,medium,Yes,Fusion,Spaghetti with spiced minced meat,Main Course
+D137,Social Khichdi,325,mild,Yes,Indian,"Comfort food khichdi with kachumber, chutney, papad and achaar",Main Course
+D138,Aroraji Punjabi Kadhi,285,medium,Yes,Fusion,Traditional Punjabi kadhi served with steamed rice and papad,Beverage
+D139,Cottage Cheese & Capsicum Sizzler,580,medium,Yes,Continental,Paneer and capsicum sizzler with sides,Main Course
+D140,Grilled Chicken Peri Peri Sizzler,635,hot,No,Fusion,Grilled chicken with peri peri spices on sizzler,Main Course
+D141,Achari Basa,580,hot,Yes,Indian,Pickle marinated basa served with tadka mash and sautéed vegetables,Main Course
+D142,Goan Prawn Curry,580,medium,Yes,Fusion,"Prawns in coconut curry with homemade paste, served with steamed rice and prawn crackers",Beverage
+D143,Nina Aunty's Mutton Dhansak with Brown Rice,510,medium,No,Indian,"Traditional Parsi mutton dhansak with lentils, vegetables and brown rice",Main Course
+D144,Dal Makhani,430,medium,Yes,Fusion,Rich and creamy black lentil curry,Main Course
+D145,Social Dal Tadka,360,medium,Yes,Indian,Yellow lentil curry with tempering,Main Course
+D146,Double Masala Soya Chap,430,hot,Yes,Indian,Soya chaap in double masala gravy,Main Course
+D147,Toofani Paneer,495,hot,Yes,Indian,Spicy paneer curry in rich gravy,Main Course
+D148,Kadhai Paneer,525,medium,Yes,Indian,Paneer cooked in kadhai with bell peppers and spices,Main Course
+D149,Mix Veg Masala,325,medium,Yes,Indian,Mixed vegetable curry in spiced gravy,Main Course
+D150,Black Label Butter Chicken,580,medium,No,Fusion,Premium butter chicken curry,Main Course
+D151,Fantastic Mutton,610,hot,No,Indian,Mutton curry in rich spiced gravy,Main Course
+D152,Dhaba Style Cooker Meat,610,hot,Yes,Indian,Pressure cooked mutton in dhaba style spices,Main Course
+D153,Paneer Makhani Biryani,495,medium,Yes,Fusion,Biryani with paneer in makhani sauce,Main Course
+D154,Butter Chicken Biryani,560,medium,No,Fusion,Biryani with butter chicken,Main Course
+D155,Dum Pukht Chicken Bombai Biryani,560,medium,No,Fusion,Bombay style slow cooked chicken biryani with potatoes and plums,Main Course
+D156,Dum Pukht Mutton Bombai Biryani,595,medium,No,Fusion,Bombay style slow cooked mutton biryani with potatoes and plums,Main Course
+D157,Lucknowee Mutton Dum Pukht Biryani,595,medium,No,Fusion,Lucknowi style slow cooked mutton biryani,Main Course
+D158,Bhuna Gosht Biryani,635,hot,Yes,Fusion,"Biryani with bhuna gosht, served with raita and papad",Main Course

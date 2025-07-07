@@ -1,0 +1,48 @@
+/* styles/Home.module.css */
+.container {
+    display: flex;
+    min-height: 100vh;
+    font-family: Arial, sans-serif;
+    background-color: #f0f2f5;
+}
+
+.chatSection {
+    flex: 2; /* Takes 2 parts of space */
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    background-color: #fff;
+    border-right: 1px solid #ddd;
+    overflow-y: auto; /* Allow scrolling for chat history */
+}
+
+.recommendations {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 15px;
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #e9ebee;
+    border-top: 1px solid #ddd;
+}
+
+.orderSection {
+    flex: 1; /* Takes 1 part of space */
+    background-color: #fcfcfc;
+    border-left: 1px solid #eee;
+    padding: 20px;
+    overflow-y: auto; /* Allow scrolling for order list */
+}
+
+/* Basic responsive adjustments (optional) */
+@media (max-width: 768px) {
+    .container {
+        flex-direction: column;
+    }
+    .chatSection, .orderSection {
+        flex: none; /* Remove flex sizing */
+        width: 100%;
+        border-right: none;
+        border-bottom: 1px solid #ddd;
+    }
+}

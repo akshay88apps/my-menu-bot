@@ -1,0 +1,11 @@
+steps:
+- name: 'gcr.io/cloud-builders/docker'
+  args:
+    - 'build'
+    - '-t'
+    - 'gcr.io/menuapp-463518/frontend-image:latest'
+    - '.'
+    - '--build-arg' # <-- This is crucial!
+    - 'NEXT_PUBLIC_BACKEND_URL=https://mymenubot-backend-834812975003.us-central1.run.app' # <-- Use your actual backend URL here
+images:
+- 'gcr.io/menuapp-463518/frontend-image:latest'
